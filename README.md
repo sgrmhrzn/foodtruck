@@ -4,3 +4,4 @@ Food Trucks is a JavaScript web app that helps to find the available food items 
 ![alt text](https://github.com/sgrmhrzn/foodtrucks/blob/master/images/foodtruck.PNG)
 
 ..*List
+- Item 1
